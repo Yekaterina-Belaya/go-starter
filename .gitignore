@@ -1,0 +1,19 @@
+# Бинарники
+*.exe
+*.out
+*.test
+
+# Кэш и временные файлы
+*.log
+*.tmp
+*.swp
+
+# IDE / редакторы
+.vscode/
+.idea/
+
+# Go модули/кэш
+vendor/
+bin/
+dist/
+coverage.out
